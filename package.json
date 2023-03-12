@@ -1,0 +1,23 @@
+{
+  "name": "electrs-client",
+  "version": "0.0.1",
+  "description": "Electrs Client for Node.js",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelsadeeq/node-electrs-client.git"
+  },
+  "keywords": [
+    "electrum",
+    "electrs",
+    "client"
+  ],
+  "author": " Yuki Akiyama and Abubakar Ismail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismaelsadeeq/node-electrs-client/issues"
+  },
+  "homepage": "https://github.com/ismaelsadeeq/node-electrs-client#readme"
+}
