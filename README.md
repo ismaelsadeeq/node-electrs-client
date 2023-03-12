@@ -1,4 +1,4 @@
-# node-electrum-client
+# node-electrum-server-client
 
 Electrum Server (Electrs) Protocol Client for Node.js
 
